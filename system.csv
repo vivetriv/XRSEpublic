@@ -1,0 +1,16 @@
+lemma,poscode,surface
+chest,3,chest
+abdomen,3,abdomen,abdo,abd
+abdominal,4,abdominal
+intraabdominal,4,intraabdominal
+pelvic,4,pelvic
+pelvis,3,pelvis
+mental,4,mental
+system,3,system
+respiratory,4,respiratory
+peripheral,4,peripheral
+back,3,back
+oropharyngeal,4,oropharyngeal
+oropharynx,3,oropharynx
+airways,3,airways
+extremity,3,extremity,extremities

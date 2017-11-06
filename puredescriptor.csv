@@ -1,0 +1,52 @@
+lemma,poscode,surface
+opacity,3,opacity,opacities
+patchy,4,patchy
+enhance,4,enhance,enhanced,enhancing
+enhancement,3,enhancement
+non-enhance,4,non-enhancing,nonenhancing,non enhancing,non-enhanced,nonenhanced,non-enhance,non enhanced
+contrast blush,3,contrast blush,blush
+hypodense,4,hypodense
+hyperdense,4,hyperdense
+hyperdensities,3,hyperdensities,hyperdensity
+hypodensity,3,hypodensity,hypodensities
+stranding,4,stranding
+defect,3,defect,defects
+unremarkable,4,unremarkable
+congruent,4,congruent
+contour,3,contour,contours
+layering,4,layering
+heterogeneous,4,heterogeneous
+homogeneous,4,homogeneous
+nodular,4,nodular
+faint,3,faint
+air-fluid level,3,air-fluid levels,fluid level,fluid levels
+prominence,3,prominence
+prominent,4,prominent
+hypoattenuating,4,hypoattenuating
+attenuation,3,attenuation
+diffuse,4,diffuse
+diffusely,4,diffusely
+silhouette,3,silhouette,silhouettes
+volume,3,volume,volumes
+marking,3,marking,markings
+velocity,3,velocity,velocities
+peak,4,peak
+velocity,3,velocity,velocities
+antegrade,4,antegrade
+retrograde,4,retrograde
+resistive,4,resistive
+waveform,3,waveform
+spiculated,4,spiculated
+gross,4,gross
+nonaggressive,4,nonaggressive
+streak,3,streak
+striated,4,striated
+widespread,4,widespread
+grade,3,grade
+density,3,density,densities
+radiopaque,4,radiopaque
+ill-defined,4,ill-defined,ill defined
+mottled,4,mottled
+caliber,3,caliber
+lytic,4,lytic,osteolytic,osteo-lytic
+sclerotic,4,sclerotic,blastic

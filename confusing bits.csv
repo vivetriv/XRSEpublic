@@ -1,0 +1,20 @@
+pulmonary embolism
+cardiac regurgitation
+vascular
+vascular congestion
+category for s/p (status post), f/u (follow up) and c/b (complicated by)?
+superior vena cava
+pluera vs plueral
+?event ?procedure ?instrument/implant ?temporal markers ?surity
+the is for?
+descriptors - something related to appearances/method of occurrences (?mechanical) only
+pathology - reason for/leads to somehow having a certain symptoms
+symptom - somewhat vague, relatively medically untouched/verified/tested outer (mostly) sign of something going wrong
+organ - distinctive identifiers of named discrete organs or stuff related to organs (perirenal,heartbeat)
+part-organs - semantic hypernyms, components or descriptors for multiple descrete organs
+system - anatomic hypernyms of discrete organs
+Radpure - can be evaluated AND measured practically only in-image, may be somewhat impermanent and abstract
+Anatomical acronyms a problems? Find all in dictionaries and pre-process the reports to get rid of them?
+systolic/diastolic
+penetration aka small amount of aspiration vs radiation beam penetration...?
+?anatomical actions - swalllowing,inspiration,extension,angulated?

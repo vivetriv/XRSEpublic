@@ -1,0 +1,23 @@
+lemma,poscode,surface
+sob,3,sob,shortness of breath,short of breath
+regurgitation,3,regurgitation
+fever,3,pyrexia,controlled hyperthermia,f
+cough,3,cough
+gsw,3,gunshot wound,gun shot wound,gsw, gun-shot-wound,gun-shot wound
+trauma,3,trauma
+cp,3,cp,chest pain
+chills,3,chills
+syncope,3,syncope
+mva,3,mva,mvc,motor vehicle accident,motor vehicle collision, motorvehicle accident,motorvehicle collision
+surgery,3,surgery
+fall,3,fall
+injury,3,injury
+pain,3,pain
+painful,4,painful
+distress,3,distress
+swelling,3,swelling
+asymptomatic,4,asymptomatic,asx
+difficulty,3,difficulty
+bleeding,4,bleeding
+stool,3,stool
+alcoholic,4,alcoholic

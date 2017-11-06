@@ -1,0 +1,119 @@
+lemma,poscode,surface
+pathology,3,pathology
+ccf,3,ccf,chf,chronic heart failure,chronic cardiac failure,chronic cf,chronic hf
+effusion,3,effusion,effusions
+af,3,atrial fibrillation,af
+mvp,3,mitral valve prolapse,mvp
+cardiomegaly,3,cardiomegaly
+congestion,3,congestion
+edema,3,edema,odema,oedema
+arrest,3,arrest
+atelectasis,3,atelectasis
+fistula,3,fistula
+fistulization,3,fistulization
+hematoma,3,hematoma,haematoma,hemorrhage
+infection,3,infection
+infectious,4,infectious
+inflammatory,4,inflammatory
+inflammation,3,inflammation
+aneurysm,3,anuerysm
+pneumomediastinum,3,pneumo-mediastinum,pneumomediastinum
+pseudoaneurysm,3,pseudoaneurysm,pseudoaneurysms
+cyst,3,cyst,cysts
+lesion,3,lesion,lesions,lesioons
+deposition,3,deposition,depositions
+collection,3,collection
+thickening,4,thickening
+mass,3,mass,masses
+metastasis,3,metastasis,mets,met
+plaque,3,plaque,plaques
+disease,3,disease,diseases
+fracture,3,fracture,fractures,fx
+dislocation,3,dislocation,dislocations
+degenerative,4,degenerative
+pna,3,pneumonia,pna
+sda,3,sporadic duodenal adenoma,sda
+adenoma,3,adenoma
+sepsis,3,sepsis
+septic,4,septic
+urosepsis,3,urosepsis
+dvt,3,dvt,deep vein thrombosis
+anemia,3,anemia
+neutropenic,4,neutropenic
+neutropenia,3,neutropenia
+chondrocalcinosis,3,chondrocalcinosis
+failure,3,failure
+dm2,3,dm2,type 2 diabetes
+esrd,3,esrd,ckd,chronic kidney disease,end-stage renal disease
+cad,3,cad,coronary artery disease
+pneumothorax,3,ptx,pno
+carcinoma,3,carcinoma
+hydropneumothorax,3,hydropneumothorax
+hypotension,3,hypotension
+arf,3,acute renal failure,arf
+ca,3,cancer,ca
+atherosclerotic,4,atherosclerotic
+atherosclerosis,3,atherosclerosis
+diverticulitis,3,diverticulitis
+pneumatosis,3,pneumatosis
+lysis,3,lysis
+sclerosis,3,sclerosis
+colitis,3,colitis
+hypoxia,3,hypoxia
+aspiration,3,aspiration
+aspirated,4,aspirated
+vasculopathy,3,vasculopathy
+choledocholithiasis,3,choledocholithiasis
+stone,3,stone,stones
+ards,3,acute respiratory distress syndrome
+shock,3,shock
+cholelithiasis,3,cholelithiasis
+copd,3,chronic obstructive pulmonary disease
+overload,3,overload
+demineralisation,3,demineralisation,demineralization
+spur,3,spur,spurs,osteophyte,osteophytes
+spurring,4,spurring
+pvd,3,peripheral vascular disease
+benign,4,benign
+malignant,4,malignant
+metastatic,4,metastatic
+stenosis,3,stenosis
+arthritis,3,arthritis
+osteoarthritis,3,osteoarthritis
+arthritic,4,arthritic
+rhematoid,4,rhematoid
+pseudogout,3,pseudogout,cppd,calcium pyrophosphate desposition disease
+arthropathy,3,arthropathy
+hemachromatosis,3,hemachromatosis
+hyperparathyroidism,3,hyperparathyroidism
+pancreatitis,3,pancreatitis
+delirium,3,delirium,confused
+calcification,3,calcification,calcifications
+calcified,4,calcified
+obstruction,3,obstruction
+obstructed,4,obstructed
+penetration,3,penetration
+infiltrate,3,infiltrate
+infiltration,3,infiltration
+pyelonephritis,3,pyelonephritis
+retrolisthesis,3,retrolisthesis
+emphysematous,4,emphysematous
+emphysema,3,emphysema
+nodule,3,nodule
+nephronia,3,nephronia
+hernia,3,hernia
+herniated,4,herniated
+atheromatous,4,atheromatous
+thrombus,4,thrombus
+opacification,4,opacification,opacifications
+lymphadenopathy,3,lymphadenopathy
+hepatitis,3,hepatitis
+abscess,3,abscess,abcesses
+consolidation,3,consolidation
+air bronchogram,3,air bronchogram,air bronchograms
+cellulitis,3,cellulitis
+free air,3,free air
+free fluid,3,free fluid
+ascites,3,ascitis
+pea,3,pea,pulseless electrical activity
+infarct,3,infarct,infarction
